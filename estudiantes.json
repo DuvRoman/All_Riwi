@@ -1,0 +1,14 @@
+{
+    "A001": {
+        "nombre": "Ana",
+        "edad": 22
+    },
+    "A003": {
+        "nombre": "Zoe",
+        "edad": 19
+    },
+    "A004": {
+        "nombre": "Juan",
+        "edad": 22
+    }
+}
