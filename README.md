@@ -41,7 +41,7 @@ El sistema cuenta con un control de acceso basado en roles para mantener la segu
 Sigue estos pasos para tener el sistema corriendo en tu máquina local:
 
 ### 1. Clonar y Preparar
-```bash`
+` ```bash`
 # Clonar el repo
 git clone [https://github.com/tu-usuario/comapues.git](https://github.com/tu-usuario/comapues.git)
 
@@ -56,3 +56,4 @@ npx json-server --watch db.json --port 3001
 
 # Ejecutar la aplicacion
 npm run dev
+
